@@ -21,6 +21,6 @@ analysis.sql → Queries for business insights
 
 🚀 How to Use
 1. Clone the repository:
-git clone https://github.com/your-username/sql-sales-practice.git
+git clone https://github.com/anushkagaggar/sql-sales-practice.git
 2. Run the SQL scripts in MySQL, PostgreSQL, or any preferred database system.
 3. Experiment with queries and modify them for deeper insights!
